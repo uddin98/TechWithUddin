@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is <strong>Unknown</strong>, and I'm an Electrical and Electronic Engineer from Bangladesh.</h2>
+<h2 align="left">Hi 👋! My name is <strong>Uddin</strong>, and I'm an Electrical and Electronic Engineer from Bangladesh.</h2>
 
 ###
 
