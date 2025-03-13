@@ -152,6 +152,16 @@
    - **Description**: Demonstrated manual control of circuit breakers using a two-state switch for system testing and maintenance.  
    - **Video**: [Watch Here](https://youtu.be/G_EtcOC0UzU)  
 
+8. **Sequence Component Analysis in PSCAD**  
+   - **Tools**: PSCAD  
+   - **Description**: Extracted and analyzed positive, negative, and zero sequence components to study unbalanced systems.  
+   - **Video**: [Watch Here](https://www.youtube.com/watch?v=W2VwJZhN5ik&ab_channel=Random)  
+
+9. **How to Use Negative Sequence Directional Relay for Unbalanced Fault Detection in PSCAD**  
+   - **Tools**: PSCAD  
+   - **Description**: Demonstrated the use of a Negative Sequence Directional Relay to detect and isolate unbalanced faults in power systems.  
+   - **Video**: [Watch Here](https://www.youtube.com/watch?v=SVSITf-ezxc&ab_channel=Random)  
+
 ### **MATLAB Simulink Projects**
 1. **FFT Analyzer Settings in MATLAB Simulink**  
    - **Tools**: MATLAB Simulink  
@@ -211,6 +221,31 @@ This repository contains the PSCAD simulation files for detecting unbalanced fau
 
 ## Download
 Download the PSCAD file from the [Negative_Sequence_Directional_Relay_PSCAD](https://github.com/uddin98/TechWithUddin/tree/main/Negative_Sequence_Directional_Relay_PSCAD) folder.
+
+---
+
+# Sequence Component Analysis in PSCAD
+
+This repository contains the PSCAD simulation files for extracting and analyzing positive, negative, and zero sequence components in power systems. Sequence components are essential for studying unbalanced systems and fault conditions.
+
+## Features
+- Extracts positive, negative, and zero sequence components in PSCAD.
+- Analyzes sequence components to identify system imbalances.
+- Simulates unbalanced systems and fault conditions.
+
+## How to Use
+1. Clone this repository: `git clone https://github.com/uddin98/TechWithUddin.git`
+2. Open the PSCAD file: `Sequence_Component_Analysis.pscx`
+3. Run the simulation and analyze the results.
+
+## Related Topics
+- Sequence Components
+- Unbalanced Systems
+- Fault Analysis
+- PSCAD Simulation
+
+## Download
+Download the PSCAD file from the [Sequence_Component_Analysis](https://github.com/uddin98/TechWithUddin/tree/main/Sequence_Component_Analysis) folder.
 
 ## License
 This project is licensed under the MIT License.
