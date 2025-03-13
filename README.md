@@ -189,4 +189,32 @@ I run a YouTube channel where I share tutorials and demonstrations on power syst
 
 ---
 
+# Negative Sequence Directional Relay for Unbalanced Fault Detection in PSCAD
+
+This repository contains the PSCAD simulation files for detecting unbalanced faults using a Negative Sequence Directional Relay. The relay is designed to identify and isolate faults that cause system imbalances, ensuring grid stability and reliability.
+
+## Features
+- Simulates unbalanced fault conditions in PSCAD.
+- Configures and tests a Negative Sequence Directional Relay.
+- Analyzes relay operation for fault detection.
+
+## How to Use
+1. Clone this repository: `git clone https://github.com/uddin98/TechWithUddin.git`
+2. Open the PSCAD file: `Negative_Sequence_Directional_Relay_PSCAD.pscx`
+3. Run the simulation and analyze the results.
+
+## Related Topics
+- Negative Sequence Relay
+- Unbalanced Fault Detection
+- Power System Protection
+- PSCAD Simulation
+
+## Download
+Download the PSCAD file from the [Negative_Sequence_Directional_Relay_PSCAD](https://github.com/uddin98/TechWithUddin/tree/main/Negative_Sequence_Directional_Relay_PSCAD) folder.
+
+## License
+This project is licensed under the MIT License.
+
+---
+
 Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaborations or discussions. Let’s connect and innovate together! 🚀
