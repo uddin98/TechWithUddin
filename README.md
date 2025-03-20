@@ -116,7 +116,8 @@
    - **Description**: Calculated power losses in a grid using DIgSILENT PowerFactory, providing insights into system efficiency.  
    - **Video**: [Watch Here](https://youtu.be/85U_hfk5DdA)  
 
-### **PSCAD Projects**
+
+### **PSCAD Projects**  
 1. **Transformer Protection Using Differential Relays in PSCAD**  
    - **Tools**: PSCAD  
    - **Description**: Simulated and demonstrated the use of differential relays for transformer protection, ensuring safe operation during fault conditions.  
@@ -161,6 +162,11 @@
    - **Tools**: PSCAD  
    - **Description**: Demonstrated the use of a Negative Sequence Directional Relay to detect and isolate unbalanced faults in power systems.  
    - **Video**: [Watch Here](https://www.youtube.com/watch?v=SVSITf-ezxc&ab_channel=Random)  
+
+10. **Dual Slope Transformer: Full Parameter Calculation Guide in PSCAD**  
+   - **Tools**: PSCAD  
+   - **Description**: Complete calculation of all key parameters for a Dual Slope Current Differential Transformer using PSCAD, including differential protection settings and fault analysis.  
+   - **Video**: [Watch Here](https://www.youtube.com/watch?v=0TxtHmeel2I&ab_channel=Random)  
 
 ### **MATLAB Simulink Projects**
 1. **FFT Analyzer Settings in MATLAB Simulink**  
@@ -246,6 +252,32 @@ This repository contains the PSCAD simulation files for extracting and analyzing
 
 ## Download
 Download the PSCAD file from the [Sequence_Component_Analysis](https://github.com/uddin98/TechWithUddin/tree/main/Sequence_Component_Analysis) folder.
+
+---
+
+# Dual Slope Transformer: Full Parameter Calculation Guide in PSCAD  
+
+This repository contains the PSCAD simulation files for calculating all key parameters in a **Dual Slope Current Differential Transformer**. This tutorial will guide you step-by-step through setting up the transformer and performing the parameter calculations necessary for accurate protection and fault detection.  
+
+## Features  
+- Complete calculation of all parameters for a Dual Slope Current Differential Transformer in PSCAD.  
+- Step-by-step explanation of the differential protection settings.  
+- Simulation of transformer faults and relay response analysis.  
+- Best practices for improving transformer protection performance.  
+
+## How to Use  
+1. Clone this repository: `git clone https://github.com/uddin98/TechWithUddin.git`  
+2. Open the PSCAD file: `Dual_Slope_Transformer_Calculation.pscx`  
+3. Run the simulation and analyze the calculated parameters.  
+
+## Related Topics  
+- Transformer Differential Protection  
+- Dual Slope Relay Settings  
+- Fault Detection in Transformers  
+- PSCAD Simulation  
+
+## Download  
+Download the PSCAD file from the [Differential_Relay](https://github.com/uddin98/TechWithUddin/tree/main/Differential_Relay) folder.  
 
 ## License
 This project is licensed under the MIT License.
